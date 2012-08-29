@@ -51,7 +51,7 @@ function pwgsc_metatag_metatag_info() {
 
   // Define all of the tags within all of the groups.
   $info['tags'][$prefix . '.contact.email'] = array(
-    'label' => t('Site e-mail address'),
+    'label' => t('PWGSC Web site e-mail address'),
     'description' => t('E-mail address for the PWGSC Web site'),
     'class' => 'DrupalTextMetaTag',
     'group' => 'pwgsc',
