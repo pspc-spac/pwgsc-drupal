@@ -30,7 +30,13 @@ Install the module as you would any other.
 Configuration:
 --------------
 
-TBD.
+1. Enable the PWGSC Meta Tags (pwgsc_metatag) module.
+2. Surf to ADMINISTRATION > CONFIGURATION > SEARCH AND METADATA > META TAGS.
+3. Click on "Override" in the "Global" row.
+4. Click on "PWGSC" to uncollapse the section.
+5. Enter the e-mail address for your Web site.
+6. Hit the Save button.
+7. Your PWGSC-specific meta tags should now appear in your HTML headers.
 
 
 Home page:
