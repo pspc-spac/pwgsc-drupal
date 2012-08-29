@@ -1,0 +1,9 @@
+<?php
+/**
+ * @file
+ * Hooks into the Meta Tags module to provide PWGSC-specific meta tags.
+ *
+ * For the time being, this file is a placeholder.  Useful code is in the
+ * pwgsc_metatag.metatag.inc file.
+ */
+

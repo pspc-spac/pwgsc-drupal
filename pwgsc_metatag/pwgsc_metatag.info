@@ -1,0 +1,6 @@
+name = PWGSC Meta Tags
+description = Hooks into the Meta Tags module to provide PWGSC-specific meta tags
+core = 7.x
+package = Public Works and Government Services Canada
+version = 7.x-1.0
+dependencies[] = wetkit_metatag
